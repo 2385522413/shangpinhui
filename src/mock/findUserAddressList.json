@@ -1,0 +1,46 @@
+[
+  {
+    "consignee": "顾问",
+    "fullAddress": "山东卧龙镇1",
+    "id": 1361,
+    "isDefault": "1",
+    "phoneNum": "17710221034",
+    "provinceId": 1,
+    "regionId": 1,
+    "userAddress": "山东卧龙镇11",
+    "userId": 2
+  },
+  {
+    "consignee": "顾伤",
+    "fullAddress": "山东卧龙镇2",
+    "id": 1362,
+    "isDefault": "0",
+    "phoneNum": "17710221034",
+    "provinceId": 1,
+    "regionId": 1,
+    "userAddress": "山东卧龙镇22",
+    "userId": 2
+  },
+  {
+    "consignee": "顾复苏",
+    "fullAddress": "山东卧龙镇3",
+    "id": 1363,
+    "isDefault": "0",
+    "phoneNum": "17710221034",
+    "provinceId": 1,
+    "regionId": 1,
+    "userAddress": "山东卧龙镇33",
+    "userId": 2
+  },
+  {
+    "consignee": "顾disk",
+    "fullAddress": "山东卧龙镇4",
+    "id": 1364,
+    "isDefault": "0",
+    "phoneNum": "17710221034",
+    "provinceId": 1,
+    "regionId": 1,
+    "userAddress": "山东卧龙镇44",
+    "userId": 2
+  }
+]
